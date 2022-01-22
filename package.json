@@ -11,11 +11,11 @@
     "ascii-table": "^0.0.9",
     "discord.js": "^13.6.0",
     "glob": "^7.2.0",
+    "mongoose": "^6.1.7",
+    "moongoose": "^0.0.5",
     "node": "^17.3.1",
     "start": "^5.1.0"
   },
   "keywords": [],
-  "description": "",
-  "node": "16.x"
+  "description": ""
 }
-
