@@ -21,5 +21,8 @@
   "description": "",
   "engines": {
     "node": "16.13.2"
-  }
+  },
+  "scripts": {
+    "start": "node your-script.js"
+}
 }
