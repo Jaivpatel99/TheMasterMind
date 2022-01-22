@@ -1,5 +1,5 @@
-const { Client, Collection } = require("discord.js");
-const client = new Client({intents: 32767});
+const { Client, Intents , Collection} = require('discord.js');
+const client = new Client({ intents: [Intents.FLAGS.GUILDS] });
 const{ Token } = require("./config.json");
 process.env["NODE_TLS_REJECT_UNAUTHORIZED"] = 1;
 
