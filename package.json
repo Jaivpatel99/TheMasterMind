@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node your-script.js"
   },
   "author": "TheMasterMind",
   "license": "ISC",
@@ -21,8 +21,5 @@
   "description": "",
   "engines": {
     "node": "16.13.2"
-  },
-  "scripts": {
-    "start": "node your-script.js"
-}
+  }
 }
