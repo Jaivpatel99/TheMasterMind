@@ -15,5 +15,7 @@
     "start": "^5.1.0"
   },
   "keywords": [],
-  "description": ""
+  "description": "",
+  "node": "16.x"
 }
+
